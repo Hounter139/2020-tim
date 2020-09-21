@@ -925,7 +925,9 @@ body {
   background-color: #321833;
 }
 
-div {
+#primary, #secondary {
+  max-width: 1280px;
+  margin: 0 auto;
   background-color: black;
 }
 
@@ -957,5 +959,9 @@ input {
 input.search-submit {
   background-color: black;
   color: #666;
+}
+
+#post-1 {
+  margin: 0;
 }
 /*# sourceMappingURL=style.css.map */

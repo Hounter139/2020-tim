@@ -1,8 +1,11 @@
 body{
     background-color: rgb(50, 24, 51);
 }
-div{background-color: black;
 
+#primary,#secondary{
+    max-width: 1280px;
+    margin : 0 auto;
+    background-color: black;
 }
 
 a{
@@ -28,4 +31,7 @@ input{
         background-color: black;
         color : #666;
     }
+}
+#post-1{
+    margin:0;
 }
