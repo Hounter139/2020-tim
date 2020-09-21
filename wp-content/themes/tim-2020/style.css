@@ -922,6 +922,11 @@ textarea {
   display: none;
 }
 
+nav {
+  background-color: black;
+  font-size: 5px;
+}
+
 body {
   background-color: #321833;
 }
@@ -963,6 +968,7 @@ h1 {
 
 input {
   background-color: black;
+  margin-left: 20px;
 }
 
 input.search-submit {
