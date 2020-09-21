@@ -915,10 +915,11 @@ textarea {
 .site-title {
   font-size: 8em;
   text-align: center;
+  margin: 30px auto;
 }
 
 .site-description {
-  text-align: center;
+  display: none;
 }
 
 body {
@@ -934,6 +935,14 @@ body {
 a {
   color: #482249;
   text-decoration: none;
+}
+
+p {
+  margin-left: 20px;
+}
+
+h1 {
+  margin-left: 10px;
 }
 
 .entry-title {
@@ -959,6 +968,11 @@ input {
 input.search-submit {
   background-color: black;
   color: #666;
+}
+
+nav button {
+  background-color: black;
+  color: grey;
 }
 
 #post-1 {

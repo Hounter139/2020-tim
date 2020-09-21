@@ -12,6 +12,8 @@ a{
     color:  rgb(72, 34, 73);
     text-decoration: none;
 }
+p{margin-left: 20px;}
+h1{margin-left: 10px;}
 
 .entry-title{
     margin-left: 40px;
@@ -31,6 +33,10 @@ input{
         background-color: black;
         color : #666;
     }
+}
+nav button{
+background-color:black;
+color:grey;
 }
 #post-1{
     margin:0;
