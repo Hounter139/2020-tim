@@ -931,5 +931,18 @@ div {
 
 a {
   color: #482249;
+  text-decoration: none;
+}
+
+.entry-title {
+  margin-left: 40px;
+}
+
+.entry-content {
+  margin-left: 60px;
+}
+
+.entry-meta {
+  text-align: right;
 }
 /*# sourceMappingURL=style.css.map */
