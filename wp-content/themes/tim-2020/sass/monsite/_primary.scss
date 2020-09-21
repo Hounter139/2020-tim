@@ -19,3 +19,13 @@ a{
 .entry-meta{
     text-align: right;
 }
+.entry-footer{
+    text-align: right;
+}
+input{
+    background-color: black;
+    &.search-submit{
+        background-color: black;
+        color : #666;
+    }
+}
