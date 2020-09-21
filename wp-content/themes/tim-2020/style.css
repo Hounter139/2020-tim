@@ -914,9 +914,18 @@ textarea {
 --------------------------------------------- */
 .site-title {
   font-size: 8em;
+  text-align: center;
 }
 
 .site-description {
   text-align: center;
+}
+
+body {
+  background-color: #321833;
+}
+
+div {
+  background-color: black;
 }
 /*# sourceMappingURL=style.css.map */
